@@ -1,7 +1,7 @@
 # **Building a Face Detection model using Tensorflow and VGG16 model**
 
 * **All necessary package installs are in the** `install.ipynb`
-* **To try out the application use** `python app.py`
+* **`app.py` file contains the demo-application shown in the demo**
 
 * **Demo:**
   
